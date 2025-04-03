@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Wooden Armor",
+    "ArmorDefend": 5,
+    "ArmorDamageReduction": 0,
+    "ArmorHP": 1,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 2,
+    "name": "Leather Tunic",
+    "ArmorDefend": 8,
+    "ArmorDamageReduction": 1,
+    "ArmorHP": 5,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 3,
+    "name": "Cloth Robe",
+    "ArmorDefend": 3,
+    "ArmorDamageReduction": 0,
+    "ArmorHP": 10,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 4,
+    "name": "Padded Vest",
+    "ArmorDefend": 10,
+    "ArmorDamageReduction": 2,
+    "ArmorHP": 8,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 5,
+    "name": "Hunter's Garb",
+    "ArmorDefend": 15,
+    "ArmorDamageReduction": 2,
+    "ArmorHP": 12,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 6,
+    "name": "Scavenger's Coat",
+    "ArmorDefend": 12,
+    "ArmorDamageReduction": 1,
+    "ArmorHP": 20,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 7,
+    "name": "Tattered Chainmail",
+    "ArmorDefend": 20,
+    "ArmorDamageReduction": 3,
+    "ArmorHP": 15,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 8,
+    "name": "Militia Breastplate",
+    "ArmorDefend": 25,
+    "ArmorDamageReduction": 5,
+    "ArmorHP": 20,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 9,
+    "name": "Rusted Plate",
+    "ArmorDefend": 30,
+    "ArmorDamageReduction": 4,
+    "ArmorHP": 10,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 10,
+    "name": "Settler's Gambeson",
+    "ArmorDefend": 18,
+    "ArmorDamageReduction": 3,
+    "ArmorHP": 25,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 11,
+    "name": "Traveler's Cloak",
+    "ArmorDefend": 15,
+    "ArmorDamageReduction": 5,
+    "ArmorHP": 30,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 12,
+    "name": "Village Guard Cuirass",
+    "ArmorDefend": 35,
+    "ArmorDamageReduction": 6,
+    "ArmorHP": 25,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 13,
+    "name": "Frontiersman's Vest",
+    "ArmorDefend": 28,
+    "ArmorDamageReduction": 4,
+    "ArmorHP": 35,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 14,
+    "name": "Apprentice Robe",
+    "ArmorDefend": 10,
+    "ArmorDamageReduction": 8,
+    "ArmorHP": 40,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 15,
+    "name": "Hardened Leather",
+    "ArmorDefend": 40,
+    "ArmorDamageReduction": 7,
+    "ArmorHP": 30,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 16,
+    "name": "Reinforced Chainmail",
+    "ArmorDefend": 60,
+    "ArmorDamageReduction": 10,
+    "ArmorHP": 45,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 17,
+    "name": "City Watch Plate",
+    "ArmorDefend": 75,
+    "ArmorDamageReduction": 12,
+    "ArmorHP": 50,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 18,
+    "name": "Adept's Vestments",
+    "ArmorDefend": 55,
+    "ArmorDamageReduction": 15,
+    "ArmorHP": 70,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 19,
+    "name": "Mercenary Breastplate",
+    "ArmorDefend": 90,
+    "ArmorDamageReduction": 14,
+    "ArmorHP": 60,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 20,
+    "name": "Ranger's Cloak",
+    "ArmorDefend": 70,
+    "ArmorDamageReduction": 18,
+    "ArmorHP": 65,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 21,
+    "name": "Battleworn Plate",
+    "ArmorDefend": 110,
+    "ArmorDamageReduction": 16,
+    "ArmorHP": 85,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 22,
+    "name": "Enchanted Leather",
+    "ArmorDefend": 95,
+    "ArmorDamageReduction": 20,
+    "ArmorHP": 100,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 23,
+    "name": "Knight's Surcoat",
+    "ArmorDefend": 130,
+    "ArmorDamageReduction": 19,
+    "ArmorHP": 90,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 24,
+    "name": "Guild Mage Robes",
+    "ArmorDefend": 85,
+    "ArmorDamageReduction": 22,
+    "ArmorHP": 120,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 25,
+    "name": "Veteran's Plate",
+    "ArmorDefend": 150,
+    "ArmorDamageReduction": 25,
+    "ArmorHP": 135,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 26,
+    "name": "Elven Silk Vestment",
+    "ArmorDefend": 120,
+    "ArmorDamageReduction": 28,
+    "ArmorHP": 160,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 27,
+    "name": "Obsidian Scale Mail",
+    "ArmorDefend": 180,
+    "ArmorDamageReduction": 30,
+    "ArmorHP": 150,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 28,
+    "name": "Runic Breastplate",
+    "ArmorDefend": 200,
+    "ArmorDamageReduction": 32,
+    "ArmorHP": 175,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 29,
+    "name": "Magister's Robes",
+    "ArmorDefend": 160,
+    "ArmorDamageReduction": 35,
+    "ArmorHP": 220,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 30,
+    "name": "Dwarven Steel Plate",
+    "ArmorDefend": 230,
+    "ArmorDamageReduction": 36,
+    "ArmorHP": 200,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 31,
+    "name": "Shadowhide Armor",
+    "ArmorDefend": 210,
+    "ArmorDamageReduction": 38,
+    "ArmorHP": 230,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 32,
+    "name": "Dragonscale Vest",
+    "ArmorDefend": 280,
+    "ArmorDamageReduction": 40,
+    "ArmorHP": 260,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 33,
+    "name": "Phoenix Feather Cloak",
+    "ArmorDefend": 310,
+    "ArmorDamageReduction": 45,
+    "ArmorHP": 290,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 34,
+    "name": "Commander's Cuirass",
+    "ArmorDefend": 350,
+    "ArmorDamageReduction": 48,
+    "ArmorHP": 320,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 35,
+    "name": "Archmage Vestments",
+    "ArmorDefend": 330,
+    "ArmorDamageReduction": 50,
+    "ArmorHP": 370,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 36,
+    "name": "Frostforged Plate",
+    "ArmorDefend": 400,
+    "ArmorDamageReduction": 53,
+    "ArmorHP": 350,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 37,
+    "name": "Celestial Guardian Armor",
+    "ArmorDefend": 480,
+    "ArmorDamageReduction": 58,
+    "ArmorHP": 430,
+    "WeaponRarity": "Legendary"
+  },
+  {
+    "id": 38,
+    "name": "Titan's Embrace",
+    "ArmorDefend": 550,
+    "ArmorDamageReduction": 62,
+    "ArmorHP": 500,
+    "WeaponRarity": "Legendary"
+  },
+  {
+    "id": 39,
+    "name": "Abyssal Warlord Plate",
+    "ArmorDefend": 680,
+    "ArmorDamageReduction": 68,
+    "ArmorHP": 580,
+    "WeaponRarity": "Mythic"
+  },
+  {
+    "id": 40,
+    "name": "Footman's Chain",
+    "ArmorDefend": 22,
+    "ArmorDamageReduction": 3,
+    "ArmorHP": 15,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 41,
+    "name": "Crown of the Eternal",
+    "ArmorDefend": 1000,
+    "ArmorDamageReduction": 100,
+    "ArmorHP": 1000,
+    "WeaponRarity": "Divine"
+  },
+  {
+    "id": 42,
+    "name": "Nomad's Covering",
+    "ArmorDefend": 13,
+    "ArmorDamageReduction": 6,
+    "ArmorHP": 22,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 43,
+    "name": "Scout's Leather",
+    "ArmorDefend": 45,
+    "ArmorDamageReduction": 9,
+    "ArmorHP": 40,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 44,
+    "name": "Warlock's Robe",
+    "ArmorDefend": 50,
+    "ArmorDamageReduction": 17,
+    "ArmorHP": 80,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 45,
+    "name": "Captain's Regalia",
+    "ArmorDefend": 140,
+    "ArmorDamageReduction": 21,
+    "ArmorHP": 115,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 46,
+    "name": "Stonewrought Plate",
+    "ArmorDefend": 170,
+    "ArmorDamageReduction": 27,
+    "ArmorHP": 145,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 47,
+    "name": "Arcane Battlegear",
+    "ArmorDefend": 240,
+    "ArmorDamageReduction": 34,
+    "ArmorHP": 180,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 48,
+    "name": "Tempest Chainmail",
+    "ArmorDefend": 290,
+    "ArmorDamageReduction": 42,
+    "ArmorHP": 250,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 49,
+    "name": "Hellforged Battleplate",
+    "ArmorDefend": 420,
+    "ArmorDamageReduction": 55,
+    "ArmorHP": 390,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 50,
+    "name": "Ancient Dragon Scales",
+    "ArmorDefend": 600,
+    "ArmorDamageReduction": 65,
+    "ArmorHP": 550,
+    "WeaponRarity": "Legendary"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Wooden Sword",
+    "WeaponDamage": 5,
+    "WeaponCritical": 0,
+    "WeaponAttackSpeed": 1,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 2,
+    "name": "Stone Dagger",
+    "WeaponDamage": 10,
+    "WeaponCritical": 5,
+    "WeaponAttackSpeed": 3,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 3,
+    "name": "Iron Mace",
+    "WeaponDamage": 25,
+    "WeaponCritical": 3,
+    "WeaponAttackSpeed": 1,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 4,
+    "name": "Hunter's Bow",
+    "WeaponDamage": 15,
+    "WeaponCritical": 7,
+    "WeaponAttackSpeed": 6,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 5,
+    "name": "Apprentice Staff",
+    "WeaponDamage": 20,
+    "WeaponCritical": 4,
+    "WeaponAttackSpeed": 2,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 6,
+    "name": "Farmer's Pitchfork",
+    "WeaponDamage": 12,
+    "WeaponCritical": 2,
+    "WeaponAttackSpeed": 3,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 7,
+    "name": "Rusty Axe",
+    "WeaponDamage": 18,
+    "WeaponCritical": 3,
+    "WeaponAttackSpeed": 1,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 8,
+    "name": "Militia Pike",
+    "WeaponDamage": 22,
+    "WeaponCritical": 5,
+    "WeaponAttackSpeed": 2,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 9,
+    "name": "Worn Claymore",
+    "WeaponDamage": 30,
+    "WeaponCritical": 4,
+    "WeaponAttackSpeed": 1,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 10,
+    "name": "Training Wand",
+    "WeaponDamage": 8,
+    "WeaponCritical": 6,
+    "WeaponAttackSpeed": 5,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 11,
+    "name": "Reinforced Club",
+    "WeaponDamage": 35,
+    "WeaponCritical": 10,
+    "WeaponAttackSpeed": 10,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 12,
+    "name": "Steel Shortsword",
+    "WeaponDamage": 45,
+    "WeaponCritical": 12,
+    "WeaponAttackSpeed": 18,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 13,
+    "name": "Composite Bow",
+    "WeaponDamage": 40,
+    "WeaponCritical": 15,
+    "WeaponAttackSpeed": 30,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 14,
+    "name": "Balanced Throwing Knives",
+    "WeaponDamage": 32,
+    "WeaponCritical": 18,
+    "WeaponAttackSpeed": 45,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 15,
+    "name": "Hardwood Staff",
+    "WeaponDamage": 55,
+    "WeaponCritical": 14,
+    "WeaponAttackSpeed": 15,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 16,
+    "name": "Guardian's Hammer",
+    "WeaponDamage": 65,
+    "WeaponCritical": 11,
+    "WeaponAttackSpeed": 8,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 17,
+    "name": "Knight's Lance",
+    "WeaponDamage": 70,
+    "WeaponCritical": 9,
+    "WeaponAttackSpeed": 5,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 18,
+    "name": "Serrated Dagger",
+    "WeaponDamage": 28,
+    "WeaponCritical": 20,
+    "WeaponAttackSpeed": 35,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 19,
+    "name": "Sharpened Halberd",
+    "WeaponDamage": 80,
+    "WeaponCritical": 12,
+    "WeaponAttackSpeed": 7,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 20,
+    "name": "Silver-Edged Cutlass",
+    "WeaponDamage": 95,
+    "WeaponCritical": 22,
+    "WeaponAttackSpeed": 25,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 21,
+    "name": "Ranger's Longbow",
+    "WeaponDamage": 87,
+    "WeaponCritical": 25,
+    "WeaponAttackSpeed": 20,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 22,
+    "name": "Mage's Runic Wand",
+    "WeaponDamage": 110,
+    "WeaponCritical": 18,
+    "WeaponAttackSpeed": 40,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 23,
+    "name": "Obsidian Blade",
+    "WeaponDamage": 120,
+    "WeaponCritical": 27,
+    "WeaponAttackSpeed": 22,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 24,
+    "name": "Assassin's Twin Blades",
+    "WeaponDamage": 75,
+    "WeaponCritical": 30,
+    "WeaponAttackSpeed": 60,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 25,
+    "name": "Templar's Warhammer",
+    "WeaponDamage": 135,
+    "WeaponCritical": 15,
+    "WeaponAttackSpeed": 15,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 26,
+    "name": "Enchanted Spear",
+    "WeaponDamage": 140,
+    "WeaponCritical": 20,
+    "WeaponAttackSpeed": 25,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 27,
+    "name": "Blade of the Forest",
+    "WeaponDamage": 160,
+    "WeaponCritical": 32,
+    "WeaponAttackSpeed": 85,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 28,
+    "name": "Flameheart Axe",
+    "WeaponDamage": 205,
+    "WeaponCritical": 28,
+    "WeaponAttackSpeed": 30,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 29,
+    "name": "Frostbite Bow",
+    "WeaponDamage": 180,
+    "WeaponCritical": 35,
+    "WeaponAttackSpeed": 90,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 30,
+    "name": "Thunderstrike Hammer",
+    "WeaponDamage": 250,
+    "WeaponCritical": 25,
+    "WeaponAttackSpeed": 25,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 31,
+    "name": "Viper's Fang Dagger",
+    "WeaponDamage": 190,
+    "WeaponCritical": 40,
+    "WeaponAttackSpeed": 100,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 32,
+    "name": "Staff of the Elements",
+    "WeaponDamage": 220,
+    "WeaponCritical": 38,
+    "WeaponAttackSpeed": 45,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 33,
+    "name": "Soul Reaver",
+    "WeaponDamage": 275,
+    "WeaponCritical": 42,
+    "WeaponAttackSpeed": 50,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 34,
+    "name": "Dragon's Claw Glaive",
+    "WeaponDamage": 350,
+    "WeaponCritical": 45,
+    "WeaponAttackSpeed": 70,
+    "WeaponRarity": "Legendary"
+  },
+  {
+    "id": 35,
+    "name": "Celestial Bow of the Cosmos",
+    "WeaponDamage": 380,
+    "WeaponCritical": 50,
+    "WeaponAttackSpeed": 150,
+    "WeaponRarity": "Legendary"
+  },
+  {
+    "id": 36,
+    "name": "Titan's Mighty Warhammer",
+    "WeaponDamage": 450,
+    "WeaponCritical": 48,
+    "WeaponAttackSpeed": 65,
+    "WeaponRarity": "Legendary"
+  },
+  {
+    "id": 37,
+    "name": "Abyssal Shadowblade",
+    "WeaponDamage": 420,
+    "WeaponCritical": 55,
+    "WeaponAttackSpeed": 125,
+    "WeaponRarity": "Legendary"
+  },
+  {
+    "id": 38,
+    "name": "Phoenix Wing Spear",
+    "WeaponDamage": 400,
+    "WeaponCritical": 52,
+    "WeaponAttackSpeed": 90,
+    "WeaponRarity": "Legendary"
+  },
+  {
+    "id": 39,
+    "name": "Astral Scepter of Creation",
+    "WeaponDamage": 520,
+    "WeaponCritical": 60,
+    "WeaponAttackSpeed": 200,
+    "WeaponRarity": "Mythic"
+  },
+  {
+    "id": 40,
+    "name": "Worldender Blade",
+    "WeaponDamage": 600,
+    "WeaponCritical": 65,
+    "WeaponAttackSpeed": 180,
+    "WeaponRarity": "Mythic"
+  },
+  {
+    "id": 41,
+    "name": "Eternity's Edge",
+    "WeaponDamage": 1000,
+    "WeaponCritical": 100,
+    "WeaponAttackSpeed": 1000,
+    "WeaponRarity": "Divine"
+  },
+  {
+    "id": 42,
+    "name": "Militia Flail",
+    "WeaponDamage": 28,
+    "WeaponCritical": 6,
+    "WeaponAttackSpeed": 2,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 43,
+    "name": "Traveler's Walking Staff",
+    "WeaponDamage": 15,
+    "WeaponCritical": 2,
+    "WeaponAttackSpeed": 4,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 44,
+    "name": "Hunting Knife",
+    "WeaponDamage": 12,
+    "WeaponCritical": 8,
+    "WeaponAttackSpeed": 8,
+    "WeaponRarity": "Common"
+  },
+  {
+    "id": 45,
+    "name": "Mercenary's Axe",
+    "WeaponDamage": 50,
+    "WeaponCritical": 13,
+    "WeaponAttackSpeed": 12,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 46,
+    "name": "Gladiator's Trident",
+    "WeaponDamage": 60,
+    "WeaponCritical": 16,
+    "WeaponAttackSpeed": 20,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 47,
+    "name": "Warrior's Greatsword",
+    "WeaponDamage": 75,
+    "WeaponCritical": 14,
+    "WeaponAttackSpeed": 10,
+    "WeaponRarity": "Uncommon"
+  },
+  {
+    "id": 48,
+    "name": "Battlemage's Rod",
+    "WeaponDamage": 100,
+    "WeaponCritical": 23,
+    "WeaponAttackSpeed": 30,
+    "WeaponRarity": "Rare"
+  },
+  {
+    "id": 49,
+    "name": "Whispering Death Scythe",
+    "WeaponDamage": 300,
+    "WeaponCritical": 45,
+    "WeaponAttackSpeed": 55,
+    "WeaponRarity": "Epic"
+  },
+  {
+    "id": 50,
+    "name": "Dawnbreaker Maul",
+    "WeaponDamage": 480,
+    "WeaponCritical": 53,
+    "WeaponAttackSpeed": 75,
+    "WeaponRarity": "Legendary"
+  }
+]
